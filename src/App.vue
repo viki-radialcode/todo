@@ -47,7 +47,7 @@ export default {
         return
       }
       if(this.category==''){
-        alert('Please select a category')
+        alert('Please select a category for your todo')
         return
       }
     }
